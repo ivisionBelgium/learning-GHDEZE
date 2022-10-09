@@ -9,7 +9,7 @@ import Foundation
 
 struct mySruct {
     
-    var name:String?
+    var name:String = "koen"
     
     
 }
